@@ -26,4 +26,4 @@ See [CHANGELOG.md](CHANGELOG.md).
 
 ## Report Bug, Discussion
 
-If you find a bug in the sample program, you can report it at [Issue](https://github.com/colory-games/Unreal-VerseBeginnerEdition-Samples/issues) or [Discord](https://discord.gg/F9cRxfAuJd).
+If you find a bug in the sample program, you can report it at [Issue](https://github.com/colory-games/LetsLearnUEFN-VerseForBeginners-Samples/issues) or [Discord](https://discord.gg/F9cRxfAuJd).
