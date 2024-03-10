@@ -8,7 +8,7 @@ This repository contains the sample programs for ["Let's Learn UEFN - Verse for 
 
 To use the sample programs, following softwares must be installed on your Windows PC.
 
-* UEFN v26.10 or later
+* UEFN v28.20 or later
 * Visual Studio Code
 
 ### Usage
