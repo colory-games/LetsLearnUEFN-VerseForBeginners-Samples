@@ -1,6 +1,6 @@
 # Sample Programs for "Let's Learn UEFN - Verse for Beginners"
 
-This repository contains the sample programs for ["Let's Learn UEFN - Verse for Beginners"](https://colory-games.booth.pm/items/5224756).
+This repository contains the sample programs for ["Let's Learn UEFN - Verse for Beginners"](https://www.amazon.com/dp/B0CW1FVJ13).
 
 ## How to use the sample programs
 
